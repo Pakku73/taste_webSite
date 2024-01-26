@@ -256,23 +256,31 @@ Pour la canette */
         .increment{
             z-index: 1;
             margin-right: 15vw;
-            width: 15vw;
-            height: 20vh;
+            width: 8vw;
+            height: 13vh;
             background-image: url("./img/increm.png");
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
         }
+
+        .increment:hover{
+            background-image: url("./img/increm2.png");
+        }
+
         .decrement{
             z-index: 1;
             margin-left: 15vw;
-            width: 15vw;
-            height: 20vh;
+            width: 8vw;
+            height: 13vh;
             background-image: url("./img/decrem.png");
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
+        }
 
+        .decrement:hover{
+            background-image: url("./img/decrem2.png");
         }
 
         .vertical-bar::after {
