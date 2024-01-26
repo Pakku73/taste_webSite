@@ -236,9 +236,9 @@ Pour la canette */
 
             width: 850px; /* Set the desired width */
             height: 1672px; /* Set the desired height */
-            background-image: url('/projet-ap1/CanTextures/Canette_patern.png'); /*Replace with the path to your background image*/
-            -webkit-mask-image: url('/projet-ap1/CanTextures/canmask_.png'); /* Replace with the path to your mask image */
-            mask-image: url('/projet-ap1/CanTextures/canmask_.png'); /* Standard property for mask image */
+            background-image: url('./CanTextures/Canette_patern.png'); /*Replace with the path to your background image*/
+            -webkit-mask-image: url('./CanTextures/canmask_.png'); /* Replace with the path to your mask image */
+            mask-image: url('./CanTextures/canmask_.png'); /* Standard property for mask image */
             background-size: cover; /* Adjust based on your needs */
             background-repeat:repeat-x;
             
@@ -251,14 +251,14 @@ Pour la canette */
          .shadow {
             width: 850px;
             height: 1672px;
-            background-image: url(/projet-ap1/CanTextures/canshad_.png);
+            background-image: url(./CanTextures/canshad_.png);
         }
         .increment{
             z-index: 1;
             margin-right: 15vw;
             width: 15vw;
             height: 20vh;
-            background-image: url("/projet-ap1/img/increm.png");
+            background-image: url("./img/increm.png");
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
@@ -268,7 +268,7 @@ Pour la canette */
             margin-left: 15vw;
             width: 15vw;
             height: 20vh;
-            background-image: url("/projet-ap1/img/decrem.png");
+            background-image: url("./img/decrem.png");
             background-size: contain;
             background-repeat: no-repeat;
             background-position: center;
