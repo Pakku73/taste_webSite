@@ -224,91 +224,91 @@ footer{
     width: 100%;
     /* min-height: 60vh;
     background-color: var(--color); */
-  }
+}
   
-  #footer1{
+#footer1{
     height: 24vh;
     display: flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-  }
-  
-  #footer2{
+}
+
+#footer2{
     height: 10vh;
     background-color: #161616;
-  }
-  
-  
-  .footerLinkList{
+}
+
+
+.footerLinkList{
     display: flex;
     justify-content: center;
     flex-direction: row;
-  }
-  
-  .footerSocialLink{
+}
+
+.footerSocialLink{
     margin-top: 2vw;
     padding-left: 2vw;
     color: white;
     text-decoration: none;
-  }
-  .footerSocialLink:hover{
+}
+.footerSocialLink:hover{
     text-decoration: underline;
     color: #faeec1;
-  }
-  
-  .Coordonnees{
+}
+
+.Coordonnees{
     padding: 8vh;
     display: flex;
     justify-content: center;
     flex-direction: column;
-  }
-  
-  .navigation{
+}
+
+.navigation{
     padding-left: 8vh;
     display: flex;
     flex-direction: column;
-  }
-  
-  .footer1Title{
+}
+
+.footer1Title{
     color: rgb(0, 0, 0);
-  }
-  
-  .footer1Text{
+}
+
+.footer1Text{
     color: var(--color);
-  }
-  
-  .footer1Link{
+}
+
+.footer1Link{
     color: var(--color);
     text-decoration: none;
-  }
-  
-  .footer1Link:hover{
+}
+
+.footer1Link:hover{
     text-decoration: underline;
-  }
-  
-  
-  .footer2LinkList{
+}
+
+
+.footer2LinkList{
     display: flex;
     justify-content: center;
     flex-direction: row;
-  }
-  
-  .footer2LinkText{
+}
+
+.footer2LinkText{
     margin-top: 4vh;
     color: white;
-  }
-  
-  .footer2Link{
+}
+
+.footer2Link{
     margin-top: 2vw;
     padding: 2vh;
     color: #faeec1;
     text-decoration: none;
-  }
-  .footer2Link:hover{
+}
+.footer2Link:hover{
     text-decoration: underline;
-  }
-  
+}
+
 
 
 

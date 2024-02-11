@@ -212,36 +212,36 @@ button:hover{
     justify-content: center;
     align-items: center;
 }
-  
-  #footer2{
+
+#footer2{
     bottom: 0;
     height: 10vh;
     background-color: #161616;
-  }
+}
 
-  .footer1Text{
+.footer1Text{
     padding: 16px;
-  }
+}
 
-  .footer2LinkList{
+.footer2LinkList{
     display: flex;
     justify-content: center;
     flex-direction: row;
-  }
-  
-  .footer2LinkText{
+}
+
+.footer2LinkText{
     margin-top: 4vh;
     color: white;
-  }
-  
-  .footer2Link{
+}
+
+.footer2Link{
     margin-top: 2vw;
     padding: 2vh;
     color: #faeec1;
     text-decoration: none;
     font-family: 'Poppins';
     font-size: 1rem;
-  }
-  .footer2Link:hover{
+}
+.footer2Link:hover{
     text-decoration: underline;
-  }
+}

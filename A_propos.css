@@ -2,22 +2,22 @@
 
 @font-face {
   font-family: 'Rough_Splash';
-  src: url(asset/fonts/Rough_Splash_Font_Family_/Rough\ Splash\ 400.ttf);
+  src: url(Apropos/asset/fonts/Rough_Splash_Font_Family_/Rough\ Splash\ 400.ttf);
 }
 
 @font-face {
   font-family: 'Golden_Richlane';
-  src: url(asset/fonts/Golden_Richlane_Font_Family_/Golden\ Richlane\ 400.ttf);
+  src: url(Apropos/asset/fonts/Golden_Richlane_Font_Family_/Golden\ Richlane\ 400.ttf);
 }
 
 @font-face {
   font-family: 'Caveat';
-  src: url(asset/fonts/Caveat/Caveat-VariableFont_wght.ttf);
+  src: url(Apropos/asset/fonts/Caveat/Caveat-VariableFont_wght.ttf);
 }
 
 @font-face {
   font-family: 'Permanent_Maker';
-  src: url(asset/fonts/Permanent_Marker/PermanentMarker-Regular.ttf);
+  src: url(Apropos/asset/fonts/Permanent_Marker/PermanentMarker-Regular.ttf);
 }
 
 :root{
@@ -46,7 +46,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  background-image: url(asset/Images/background_Image-v2.png);
+  background-image: url(Apropos/asset/Images/background_Image-v2.png);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -138,7 +138,7 @@ body {
 }
 
 .middle {
-  background-image:url(asset/Images/Background2-V2.jpg);
+  background-image:url(Apropos/asset/Images/Background2-V2.jpg);
   background-attachment: fixed;
   height: 1000px;
   /* flex-direction: row; */
@@ -204,15 +204,15 @@ h3 {
 }
 
 .img-first {
-  background-image: url(asset/Images/Logos/instagram-wood.jpg);
+  background-image: url(Apropos/asset/Images/Logos/instagram-wood.jpg);
 }
 
 .img-second {
-  background-image: url(asset/Images/Logos/Tweeter_foliage-V2.jpg);
+  background-image: url(Apropos/asset/Images/Logos/Tweeter_foliage-V2.jpg);
 }
 
 .img-third {
-  background-image: url(asset/Images/Logos/Facebook_marble.jpg);
+  background-image: url(Apropos/asset/Images/Logos/Facebook_marble.jpg);
 }
 
 .cardText{
@@ -358,7 +358,7 @@ footer{
   }
 
   .middle{
-    background-image:url(asset/Images/Background2-V2.jpg);
+    background-image:url(Apropos/asset/Images/Background2-V2.jpg);
     background-attachment: fixed;
     height: 1200px;
     gap: 1.6em;
@@ -420,15 +420,15 @@ footer{
   }
   
   .img-first {
-    background-image: url(asset/Images/Logos/Insta_Logo_sansContours.svg);
+    background-image: url(Apropos/asset/Images/Logos/Insta_Logo_sansContours.svg);
   }
   
   .img-second {
-    background-image: url(asset/Images/Logos/Tweeter_Logo_sansContours.svg);
+    background-image: url(Apropos/asset/Images/Logos/Tweeter_Logo_sansContours.svg);
   }
   
   .img-third {
-    background-image: url(asset/Images/Logos/Facebook_Logo_sansContours.svg);
+    background-image: url(Apropos/asset/Images/Logos/Facebook_Logo_sansContours.svg);
   }
   
   .button {
